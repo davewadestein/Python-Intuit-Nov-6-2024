@@ -1,5 +1,8 @@
 # Python-Intuit-Nov-6-2024
 
+## Course Evaluation Link
+* https://docs.google.com/forms/d/e/1FAIpQLSdVjTtollu_M2QJGnFWmWQGGzsIwL0AxgJt75Kbu08cXayUIQ/formrestricted
+  
 ## Lunch Break
 * 11-12 Pacific / 2-3 Eastern
   
