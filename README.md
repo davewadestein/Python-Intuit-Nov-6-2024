@@ -2,7 +2,11 @@
 
 ## Course Evaluation Link
 * https://docs.google.com/forms/d/e/1FAIpQLSdVjTtollu_M2QJGnFWmWQGGzsIwL0AxgJt75Kbu08cXayUIQ/formrestricted
-  
+
+## What to do next?
+* clean up Roman numeral solution and if desired, make it work for the more complicated Roman numerals (subtraction)
+   * here is a proposed way to solve it if you want, or you can use you own methodology
+   * 
 ## Lunch Break
 * 11-12 Pacific / 2-3 Eastern
   
