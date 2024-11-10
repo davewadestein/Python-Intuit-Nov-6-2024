@@ -13,14 +13,7 @@
      3. if a number is LESS THAN its neighbor, make that number negative, so your list would now look like this:
           __`[1000, -100, 1000, -10, 100, -1 10]`__ (because 100 < 1000, 10 < 100, and 1 < 10)
      4. Now sum up the numbers in the list (for this example, you'll get 1999)
-
-## Lunch Break
-* 11-12 Pacific / 2-3 Eastern
   
-## 1-Question Polls (about Day 2)
-* [How did you feel about yesterday's (Thursday) session?](https://xoyondo.com/op/zxuag6w0vejh4vq)
-* [How was Thursday's pacing?](https://xoyondo.com/op/tkjr18wgsjor85t)
-
 ## Resources
 * [Python Tutor](https://pythontutor.com)
 * [MyPy](https://mypy-lang.org/)
