@@ -13,7 +13,16 @@
      3. if a number is LESS THAN its neighbor, make that number negative, so your list would now look like this:
           __`[1000, -100, 1000, -10, 100, -1 10]`__ (because 100 < 1000, 10 < 100, and 1 < 10)
      4. Now sum up the numbers in the list (for this example, you'll get 1999)
-  
+
+* do the word counting exercise from Part 2...File I/O + dicts:
+  * write a Python program to read a file and count the number of occurrences of each word in the file
+  * use a __`dict`__, indexed by word, to count the occurrences
+  * remember __`d.get(key, 0)`__ will return __`0`__ if there is no such key in the dict (vs. __`d[key]`__ which will throw an exception) and also the __`in`__ operator
+  * treat __The__ and __the__ as the same word when counting
+  * print out words and counts, from most common to least common
+  * __EXTRA:__ remove punctuation, so __Hamlet,__ == __Hamlet__ # refer back to "import this"
+  * The Road Not Taken and Hamlet are in your materials
+    
 ## Resources
 * [Python Tutor](https://pythontutor.com)
 * [MyPy](https://mypy-lang.org/)
