@@ -1,8 +1,8 @@
 # Python-Intuit-Nov-6-2024
 
-## Course Evaluation Link
-* https://docs.google.com/forms/d/e/1FAIpQLSdVjTtollu_M2QJGnFWmWQGGzsIwL0AxgJt75Kbu08cXayUIQ/formrestricted
-
+* No 4th day, unfortunately, I have just been informed
+* Feel free to reach out if the below is unclear or you want more ideas
+  
 ## What to do next?
 * clean up Roman numeral solution and if desired, make it work for the more complicated Roman numerals (subtraction)
    * here is an algorithm you can use to solve it (but there are plenty of other ways to do it)
