@@ -22,6 +22,14 @@
   * print out words and counts, from most common to least common
   * __EXTRA:__ remove punctuation, so __Hamlet,__ == __Hamlet__ # refer back to "import this"
   * The Road Not Taken and Hamlet are in your materials
+ 
+* "Fun" games you can code up in Python (not everyone agrees on the meaning of "fun")
+   * [Cows and Bulls](https://en.wikipedia.org/wiki/Bulls_and_cows)
+      * I like this game because it's not a lot of code to write, but it exercises some useful Python features
+      * How do you generate and store the code, is an important question
+   * [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_ladders)
+      * use the Chutes and Ladders gameboard as your guide
+         * notice that, for e.g., if you land on square 1, you take a ladder up to 38, and as another example, if you land on square 87, you take a chute down to 24...so you have to have a way to know which board squares cause the player to move up or down vs. just landing on that square
     
 ## Resources
 * [Python Tutor](https://pythontutor.com)
